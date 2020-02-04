@@ -1,4 +1,4 @@
-<img src="app.png""/>
+<img src="app.png"/>
 #  Ditado
 ## Privacy Policy
 Cytek Sistemas LTDA built the Ditado app as a Free app.
